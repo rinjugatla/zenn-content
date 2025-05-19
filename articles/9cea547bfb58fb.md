@@ -11,6 +11,8 @@ published: true
 結論から言うと、よくわからないけどバグっていて、よくわからないけど直りました。
 いろいろおかしかったので、レアケースとして記録を残すためにこの記事を共有します。
 
+この記事は[Godot Modding 入門](https://zenn.dev/rinjugatla/articles/92907e2c033c2f)に関連して発生した問題の解決記事です。
+
 ## Tiny Pasture
 
 ゲーム配信プラットフォームのSteamで配信されている[デスクトップ小動物牧場 - Tiny Pasture](https://store.steampowered.com/app/3167550/_/)というゲームです。
