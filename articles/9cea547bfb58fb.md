@@ -17,10 +17,12 @@ published: true
 
 ゲーム配信プラットフォームのSteamで配信されている[デスクトップ小動物牧場 - Tiny Pasture](https://store.steampowered.com/app/3167550/_/)というゲームです。
 
-## Tiny Pasture Godot Workshop Utility
+## Tiny Pasture Steam workshop uploader
 
 Tiny Pastureはユーザの改造(MOD)をSteamで共有する機能があります。
 MODをアップロードする際には公式から提供されている`ゲームエディタ`というアプリを利用します。
+
+`ゲームエディタ`は提供される機能から乖離があるのでタイトルは`Steam workshop uploader`としました。
 
 このアプリはSteamのブランチ機能でbetaブランチとして提供されることが多いです。
 
