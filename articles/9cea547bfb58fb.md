@@ -2,7 +2,7 @@
 title: "Godot ModdingでMod Uploaderがクラッシュする問題の解決"
 emoji: "🌟"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["godot", "steam"]
+topics: ["godot", "mod", "modding", "steam"]
 published: true
 ---
 
