@@ -326,7 +326,7 @@ USER ERROR: Failed loading scene: res://Scene/Level/main.tscn.
 Mod Uploaderのような別の設定の実行ファイルを起動したときに本編の設定で上書きしてしまい不整合が起きていました。
 本編には含まれるが、Mod Uploaderには含まれないリソースのロードを試みようとしてエラーが大量に発生します。
 
-![alt text](/images//9cea547bfb58fb/tiny-pasture-override_config.png)
+![alt text](/images/9cea547bfb58fb/tiny-pasture-override_config.png)
 
 :::details 意図せず生成されたoverride.cfg
 ; Engine configuration file.
